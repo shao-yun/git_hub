@@ -1,0 +1,2 @@
+# git_hub_public_key
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFDPhMDDxPPPyY4b3ee5VOIDGCphFvEHIiqLSfpMN9IG vu8auxk6@gmail.com
